@@ -1,0 +1,9 @@
+summary: |
+  Gene Expression Programming engine for discovering elegant
+  mathematical formulas. Evolutionary formula search.
+
+state: |
+  Working. Python implementation. Has Rust port (gep-rust)
+  and React visualiser (gep-react).
+
+next: |

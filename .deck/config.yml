@@ -1,0 +1,9 @@
+name: gep-evolver
+status: active
+
+stack:
+  - python
+
+connections:
+  gep-rust: Rust port
+  gep-react: React visualiser
